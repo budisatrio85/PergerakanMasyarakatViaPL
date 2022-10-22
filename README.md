@@ -11,4 +11,7 @@ Data PL ditransformasikan untuk melihat pergerakan masyarakat sehingga pemerinta
 2. python -m manage runserver
 
 # Referensi
-Basis dari kode ini adalah https://github.com/willyGitHub18/Personnal_Project_DataVizualisation_WorkMigrations dengan beberapa penyesuaian proses bisnis
+1. Basis dari kode ini adalah https://github.com/willyGitHub18/Personnal_Project_DataVizualisation_WorkMigrations dengan beberapa penyesuaian proses bisnis
+2. Peta indonesia dari https://github.com/superpikar/indonesia-geojson
+3. Koordinat kota dari https://datahub.io/JemputData/location_id
+4. Data PL dari https://hackathon.kemenkeu.go.id/
