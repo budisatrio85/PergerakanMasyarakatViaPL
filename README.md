@@ -7,7 +7,7 @@ Data PL ditransformasikan untuk melihat pergerakan masyarakat sehingga pemerinta
 3. D3.js
 
 # Cara menjalankan
-1. masuk ke MigrationVis
+1. masuk ke MigrationViz
 2. python -m manage runserver
 
 # Referensi
